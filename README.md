@@ -10,11 +10,20 @@ Below the paths taken by each algorithm can be seen:
 
 # Depth First Search Maze 2
 
+![Sketch](images/DFS2.png)
+
 # Iterative Deepening Search Maze 1
+
+![Sketch](images/IDS1.png)
 
 # Iterative Deepening Search Maze 2
 
-# A Start Search Maze 1
+![Sketch](images/IDS2.png)
 
 # A Start Search Maze 1
 
+![Sketch](images/AS1.png)
+
+# A Start Search Maze 1
+
+![Sketch](images/AS2.png)
