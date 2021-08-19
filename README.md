@@ -6,6 +6,7 @@ Below the paths taken by each algorithm can be seen:
 
 # Depth First Search Maze 1
 
+![Sketch](images/DFS1.png)
 
 # Depth First Search Maze 2
 
